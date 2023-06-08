@@ -10,6 +10,7 @@
 <div>
   <img src="https://github.com/Salaia/icons/blob/main/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Salaia/icons/blob/main/maven.svg" title="Maven" **alt="Tomcat" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/github-mark-white.svg" title="GitHub" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/intellij-idea.svg" title="IDEA" **alt="Git" width="40" height="40"/>
