@@ -15,6 +15,7 @@
   <img src="https://github.com/Salaia/icons/blob/main/github-mark-white.svg" title="GitHub" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/intellij-idea.svg" title="IDEA" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgre" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/Salaia/icons/blob/main/insomnia-icon.png" title="Insomnia" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/postman.svg" title="Postman" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" **alt="Tomcat" width="40" height="40"/>
 </div>
