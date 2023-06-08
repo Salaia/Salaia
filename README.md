@@ -11,7 +11,7 @@
   <img src="https://github.com/Salaia/icons/blob/main/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/Salaia/icons/blob/main/github-mark-white.svg" title="GitHub" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/intellij-idea.svg" title="IDEA" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgre" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/postman.svg" title="Postman" **alt="Git" width="40" height="40"/>
