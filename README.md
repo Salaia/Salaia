@@ -14,16 +14,21 @@ Java - сердце серьезного бизнеса, и я буду счас
 ## 🛠 Languages and Tools :
 
 <div>
-  <img src="https://github.com/Salaia/icons/blob/main/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Salaia/icons/blob/main/maven.svg" title="Maven" **alt="Tomcat" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/Salaia/icons/blob/main/Java%2011.svg" title="Java 11" alt="Java 11" height="40"/>&nbsp;
+  <img src="https://github.com/Salaia/icons/blob/main/Spring%20Boot.svg" title="Spring" alt="Spring" height="40"/>&nbsp;
+  <img src="https://github.com/Salaia/icons/blob/main/Maven.svg" title="Maven" **alt="Maven" height="40"/>
+ <img src="https://github.com/Salaia/icons/blob/main/JDBC.svg" title="JDBC" **alt="JDBC" height="40"/>
+  <img src="https://github.com/Salaia/icons/blob/main/JPA.svg" title="JPA" **alt="JPA" height="40"/> 
+ <img src="https://github.com/Salaia/icons/blob/main/JUnit%205.svg" title="JUnit 5" **alt="JUnit 5" height="40"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/github-mark-white.svg" title="GitHub" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/intellij-idea.svg" title="IDEA" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgre" **alt="Git" width="40" height="40"/>
+ <img src="https://github.com/Salaia/icons/blob/main/H2.svg" title="H2" **alt="H2" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/insomnia-icon.png" title="Insomnia" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/postman.svg" title="Postman" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" **alt="Tomcat" width="40" height="40"/>
+  <img src="https://github.com/Salaia/icons/blob/main/Docker.svg" title="Docker" **alt="Docker" height="40"/>
 </div>
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
