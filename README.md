@@ -1,3 +1,5 @@
+### Всем привет! 👋
+
 - 👋 Meow, my name's Hope. Or Puma. Maybe Nadia 👩‍💻. Really, Zholtikova Nadezhda Jurievna is a bit hard to pronounce :roll_eyes: 
 - 👀 I’m interested in cats, some video games like "The Elder Scrolls" or "Deep Rock Galactic", and I love magic and fantasy worlds.
 - 🌱 I’m currently learning Java on Yandex Practicum.
@@ -5,7 +7,7 @@
 - 📫 How to reach me puma.hope@yandex.ru
 
 ---
-🛠  Languages and Tools :
+🛠  ##Languages and Tools :
 
 <div>
   <img src="https://github.com/Salaia/icons/blob/main/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
