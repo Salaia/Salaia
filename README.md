@@ -20,7 +20,7 @@ Java - сердце серьезного бизнеса, и я буду счас
  <img src="https://github.com/Salaia/icons/blob/main/JDBC.svg" title="JDBC" **alt="JDBC" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/JPA.svg" title="JPA" **alt="JPA" height="40"/> 
  <img src="https://github.com/Salaia/icons/blob/main/JUnit%205.svg" title="JUnit 5" **alt="JUnit 5" height="40"/> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+ <img src="https://github.com/Salaia/icons/blob/main/Git.svg" title="Git" **alt="Git" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/github-mark-white.svg" title="GitHub" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/intellij-idea.svg" title="IDEA" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/PostgreSQL.svg" title="PostgreSQL" **alt="PostgreSQL" height="40"/>
