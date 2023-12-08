@@ -12,19 +12,19 @@ Java - сердце серьезного бизнеса.
 ## 🛠 Languages and Tools :
 
 <div>
-  <img src="https://github.com/Salaia/icons/blob/main/green/Java%20v5.png?raw=true" title="Java" alt="Java" height="40"/>
+  <img src="https://github.com/Salaia/icons/blob/main/green/Java.png?raw=true" title="Java" alt="Java" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/Spring%20Boot.svg" title="Spring" alt="Spring" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/Maven.svg" title="Maven" alt="Maven" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/JDBC.svg" title="JDBC" alt="JDBC" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/JPA.svg" title="JPA" alt="JPA" height="40"/> 
- <img src="https://github.com/Salaia/icons/blob/main/green/JUnit%205.jpg?raw=true" title="JUnit 5" alt="JUnit 5" height="40"/> 
- <img src="https://github.com/Salaia/icons/blob/main/green/Gson%20v2.png?raw=true" title="Gson" alt="Gson" height="40"/>
+ <img src="https://github.com/Salaia/icons/blob/main/green/JUnit%205.png?raw=true" title="JUnit 5" alt="JUnit 5" height="40"/> 
+ <img src="https://github.com/Salaia/icons/blob/main/green/Gson.png?raw=true" title="Gson" alt="Gson" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/Git.svg" title="Git" alt="Git" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/github-mark-white.svg" title="GitHub" alt="Git" width="40" height="40"/>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/intellij-idea.svg" title="IDEA" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/PostgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/H2.svg" title="H2" alt="H2" height="40"/>
- <img src="https://github.com/Salaia/icons/blob/main/green/CSV.jpg?raw=true" title="*.csv" alt="csv" height="40"/>
+ <img src="https://github.com/Salaia/icons/blob/main/green/CSV.png?raw=true" title="*.csv" alt="csv" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/green/KV%20Server.jpg?raw=true" title="KVServer" alt="key value server" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/insomnia-icon.png" title="Insomnia" alt="Git" width="40" height="40"/>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/postman.svg" title="Postman" alt="Git" width="40" height="40"/>
