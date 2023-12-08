@@ -18,7 +18,7 @@ Java - сердце серьезного бизнеса.
  <img src="https://github.com/Salaia/icons/blob/main/JDBC.svg" title="JDBC" **alt="JDBC" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/JPA.svg" title="JPA" **alt="JPA" height="40"/> 
  <img src="https://github.com/Salaia/icons/blob/main/green/JUnit%205.jpg?raw=true" title="JUnit 5" **alt="JUnit 5" height="40"/> 
- <img src="https://github.com/Salaia/icons/blob/main/green/Gson.jpg?raw=true" title="Gson" **alt="Gson" height="40"/>
+ <img src="https://github.com/Salaia/icons/blob/main/green/Gson%20v2.png?raw=true" title="Gson" **alt="Gson" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/Git.svg" title="Git" **alt="Git" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/github-mark-white.svg" title="GitHub" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/intellij-idea.svg" title="IDEA" **alt="Git" width="40" height="40"/>
