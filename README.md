@@ -12,7 +12,7 @@ Java - сердце серьезного бизнеса.
 ## 🛠 Languages and Tools :
 
 <div>
-  <img src="https://github.com/Salaia/icons/blob/main/green/Java%20v3.png?raw=true" title="Java" alt="Java" height="40"/>&nbsp;
+  <img src="https://github.com/Salaia/icons/blob/main/green/Java%20v5.png?raw=true" title="Java" alt="Java" height="40"/>&nbsp;
   <img src="https://github.com/Salaia/icons/blob/main/Spring%20Boot.svg" title="Spring" alt="Spring" height="40"/>&nbsp;
   <img src="https://github.com/Salaia/icons/blob/main/Maven.svg" title="Maven" **alt="Maven" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/JDBC.svg" title="JDBC" **alt="JDBC" height="40"/>
