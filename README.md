@@ -14,8 +14,9 @@ Java - сердце серьезного бизнеса.
 <div>
   <img src="https://github.com/Salaia/icons/blob/main/green/Java.png?raw=true" title="Java" alt="Java" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/green/JavaScript.png?raw=true" title="JavaScript" alt="java script" height="40"/>
-  <img src="https://github.com/Salaia/icons/blob/main/Spring%20Boot.svg" title="Spring" alt="Spring" height="40"/>
-  <img src="https://github.com/Salaia/icons/blob/main/Maven.svg" title="Maven" alt="Maven" height="40"/>
+        <img src="https://github.com/Salaia/icons/blob/main/green/SPRING%20boot.png?raw=true" title="Spring Boot" alt="Spring Boot" height="40"/>
+      <img src="https://github.com/Salaia/icons/blob/main/green/SPRING%20MVC.png?raw=true" title="Spring MVC" alt="Spring MVC" height="40"/>
+      <img src="https://github.com/Salaia/icons/blob/main/green/Maven.png?raw=true" title="Apache Maven" alt="Apache Maven" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/JDBC.svg" title="JDBC" alt="JDBC" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/JPA.svg" title="JPA" alt="JPA" height="40"/> 
  <img src="https://github.com/Salaia/icons/blob/main/green/JUnit%205.png?raw=true" title="JUnit 5" alt="JUnit 5" height="40"/> 
