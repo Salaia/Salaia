@@ -13,6 +13,7 @@ Java - сердце серьезного бизнеса.
 
 <div>
   <img src="https://github.com/Salaia/icons/blob/main/green/Java.png?raw=true" title="Java" alt="Java" height="40"/>
+ <img src="https://github.com/Salaia/icons/blob/main/green/JavaScript.png?raw=true" title="JavaScript" alt="java script" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/Spring%20Boot.svg" title="Spring" alt="Spring" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/Maven.svg" title="Maven" alt="Maven" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/JDBC.svg" title="JDBC" alt="JDBC" height="40"/>
@@ -31,6 +32,9 @@ Java - сердце серьезного бизнеса.
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="40" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/Docker.svg" title="Docker" **alt="Docker" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/Swagger.svg" title="Swagger" **alt="Swagger" height="40"/>
+   <img src="https://github.com/Salaia/icons/blob/main/green/HTML.png?raw=true" title="HTML" alt="html" height="40"/>
+   <img src="https://github.com/Salaia/icons/blob/main/green/CSS.png?raw=true" title="CSS" alt="css" height="40"/>
+   
 </div>
 
 
