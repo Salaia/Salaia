@@ -17,8 +17,9 @@ Java - сердце серьезного бизнеса.
         <img src="https://github.com/Salaia/icons/blob/main/green/SPRING%20boot.png?raw=true" title="Spring Boot" alt="Spring Boot" height="40"/>
       <img src="https://github.com/Salaia/icons/blob/main/green/SPRING%20MVC.png?raw=true" title="Spring MVC" alt="Spring MVC" height="40"/>
       <img src="https://github.com/Salaia/icons/blob/main/green/Maven.png?raw=true" title="Apache Maven" alt="Apache Maven" height="40"/>
- <img src="https://github.com/Salaia/icons/blob/main/JDBC.svg" title="JDBC" alt="JDBC" height="40"/>
-  <img src="https://github.com/Salaia/icons/blob/main/JPA.svg" title="JPA" alt="JPA" height="40"/> 
+ <img src="https://github.com/Salaia/icons/blob/main/green/JDBC.png?raw=true" title="JDBC" alt="JDBC" height="40"/>
+  <img src="https://github.com/Salaia/icons/blob/main/green/JPA.png?raw=true" title="JPA" alt="JPA" height="40"/>
+ <img src="https://github.com/Salaia/icons/blob/main/green/Hibernate.png?raw=true" title="Hibernate" alt="Hibernate" height="40"/> 
  <img src="https://github.com/Salaia/icons/blob/main/green/JUnit%205.png?raw=true" title="JUnit 5" alt="JUnit 5" height="40"/> 
  <img src="https://github.com/Salaia/icons/blob/main/green/Gson.png?raw=true" title="Gson" alt="Gson" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/Git.svg" title="Git" alt="Git" height="40"/>
