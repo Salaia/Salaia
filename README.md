@@ -25,8 +25,8 @@ Java - сердце серьезного бизнеса.
  <img src="https://github.com/Salaia/icons/blob/main/green/Git.png?raw=true" title="Git" alt="Git" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/green/GitHub.png?raw=true" title="GitHub" alt="GitHub" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/green/Intellij%20IDEA.png?raw=true" title="IDEA" alt="Intellij IDEA" height="40"/>
-  <img src="https://github.com/Salaia/icons/blob/main/PostgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" height="40"/>
- <img src="https://github.com/Salaia/icons/blob/main/H2.svg" title="H2" alt="H2" height="40"/>
+  <img src="https://github.com/Salaia/icons/blob/main/green/PostgreSQL.png?raw=true" alt="PostgreSQL" height="40"/>
+ <img src="https://github.com/Salaia/icons/blob/main/green/H2.png?raw=true" title="H2" alt="H2" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/green/CSV.png?raw=true" title="*.csv" alt="csv" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/green/KVServer.png?raw=true" title="KVServer" alt="key value server" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/insomnia-icon.png" title="Insomnia" alt="Git" width="40" height="40"/>
