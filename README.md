@@ -29,8 +29,8 @@ Java - сердце серьезного бизнеса.
  <img src="https://github.com/Salaia/icons/blob/main/green/H2.png?raw=true" title="H2" alt="H2" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/green/CSV.png?raw=true" title="*.csv" alt="csv" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/green/KVServer.png?raw=true" title="KVServer" alt="key value server" height="40"/>
- <img src="https://github.com/Salaia/icons/blob/main/insomnia-icon.png" title="Insomnia" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/gerardpuigl/Technology-Stack-Icons/blob/main/Logos/postman.svg" title="Postman" alt="Git" width="40" height="40"/>
+ <img src="https://github.com/Salaia/icons/blob/main/green/Insomnia.png?raw=true" title="Insomnia" alt="Git" height="40"/>
+  <img src="https://github.com/Salaia/icons/blob/main/green/Postman.png?raw=true" title="Postman" alt="Git" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/green/Tomcat.png?raw=true" title="Tomcat" alt="Tomcat" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/green/Docker.png?raw=true" title="Docker" **alt="Docker" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/green/Swagger.png?raw=true" title="Swagger" **alt="Swagger" height="40"/>
