@@ -40,6 +40,8 @@ Java - сердце серьезного бизнеса.
  <img src="https://github.com/Salaia/icons/blob/main/green/Swagger.png?raw=true" title="Swagger" alt="Swagger" height="40"/>
    <img src="https://github.com/Salaia/icons/blob/main/green/HTML.png?raw=true" title="HTML" alt="html" height="40"/>
    <img src="https://github.com/Salaia/icons/blob/main/green/CSS.png?raw=true" title="CSS" alt="css" height="40"/>
+   <img src="https://github.com/Salaia/icons/blob/main/green/Swing.png?raw=true" title="Swing" alt="Swing" height="40"/>
+
    
 </div>
 
