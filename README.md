@@ -24,6 +24,7 @@ Java - лучший для меня язык программирования. �
       <img src="https://github.com/Salaia/icons/blob/main/green/Maven.png?raw=true" title="Apache Maven" alt="Apache Maven" height="40"/>
        <img src="https://github.com/Salaia/icons/blob/main/green/Rest%20API.png?raw=true" title="Rest API" alt="Rest API" height="40"/>
       <img src="https://github.com/Salaia/icons/blob/main/green/Microservice.png?raw=true" title="Microservice" alt="Microservice" height="40"/>
+       <img src="https://github.com/Salaia/icons/blob/main/green/Spring Security.png?raw=true" title="Spring Security" alt="Spring Security" height="40"/>    
  <img src="https://github.com/Salaia/icons/blob/main/green/JDBC.png?raw=true" title="JDBC" alt="JDBC" height="40"/>
   <img src="https://github.com/Salaia/icons/blob/main/green/JPA.png?raw=true" title="JPA" alt="JPA" height="40"/>
  <img src="https://github.com/Salaia/icons/blob/main/green/Hibernate.png?raw=true" title="Hibernate" alt="Hibernate" height="40"/>
